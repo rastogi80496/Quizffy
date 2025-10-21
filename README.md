@@ -34,25 +34,6 @@ This repository contains a Quiz Web App built using HTML, CSS, JavaScript, and t
 5. Continue answering questions until you reach the end of the quiz.
 6. At the end of the quiz, you will be presented with your score and the option to restart or choose a different category.
 
-## Customization
-
-If you wish to customize the app, you can modify the following files:
-
-- `index.html`: Edit the HTML structure of the app and update the UI elements.
-- `app.css`: Modify the CSS styles to change the visual appearance.
-- `game.js`: Update the JavaScript logic and functionality according to your requirements.
-- `game.html`: Edit the HTML structure of the app and update the UI elements.
-- `game.css`: Modify the CSS styles to change the visual appearance.
-- `end.js`: Update the JavaScript logic and functionality according to your requirements.
-- `end.html`: Edit the HTML structure of the app and update the UI elements.
-- `highscores.css`: Modify the CSS styles to change the visual appearance.
-- `highscores.js`: Update the JavaScript logic and functionality according to your requirements.
-- `highscores.html`: Edit the HTML structure of the app and update the UI elements.
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code according to the terms of this license.
 
 ## Acknowledgements
 
