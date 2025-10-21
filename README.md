@@ -35,10 +35,6 @@ This repository contains a Quiz Web App built using HTML, CSS, JavaScript, and t
 6. At the end of the quiz, you will be presented with your score and the option to restart or choose a different category.
 
 
-## Acknowledgements
-
-- The Quiz Web App utilizes the [Open Trivia Database API](https://opentdb.com) for fetching quiz questions.
-
 ---
 
 Enjoy using the Quiz Web App! Test your knowledge, challenge your friends, and have fun!
