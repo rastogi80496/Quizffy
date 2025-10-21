@@ -8,7 +8,6 @@ This repository contains a Quiz Web App built using HTML, CSS, JavaScript, and t
 
 ![image](https://github.com/Alok-2002/Quizzify/assets/93814546/8820d623-5e23-41c7-b86c-c58f656172da)
 
-
 ## Features
 
 - User-friendly interface for a seamless quiz-taking experience.
