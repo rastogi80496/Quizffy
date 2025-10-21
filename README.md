@@ -38,7 +38,6 @@ This repository contains a Quiz Web App built using HTML, CSS, JavaScript, and t
 ## Acknowledgements
 
 - The Quiz Web App utilizes the [Open Trivia Database API](https://opentdb.com) for fetching quiz questions.
-- Special thanks to the developers and contributors of the libraries and frameworks used in this project.
 
 ---
 
